@@ -16,3 +16,12 @@
 <li>Robusto</li>
 <li>Seguro</li>
 </ul>
+
+<h3>A plataforma Java</h3>
+<p>Uma plataforma é o ambiente de hardware ou software no qual um programa é executado. A plataforma Java difere da maioria das outras plataformas por ser uma plataforma somente de software que roda sobre outras plataformas baseadas em hardware.</p>
+<p>A plataforma Java possui dois componentes:</p>
+
+<ul>
+<li>A máquina virtual Java</li>
+<li>A interface de programação de aplicativos (API) Java</li>
+</ul>
