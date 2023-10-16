@@ -4,8 +4,6 @@
 <thead>
 <tr>
 <th colspan="1">Operadores</th>
-</tr>
-<tr>
 <th colspan=1>Significado</th>
 </tr>
 </thead>
