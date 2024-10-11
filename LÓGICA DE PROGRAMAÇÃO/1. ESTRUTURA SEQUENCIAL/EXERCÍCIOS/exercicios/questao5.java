@@ -34,7 +34,6 @@ public static void main(String[] args) {
     total = total1 + total2;
 
     System.out.printf("O total a pagar é R$%.2f %n ", total);
-
-    sc.close();
+    
 }
 }
