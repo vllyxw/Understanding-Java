@@ -21,7 +21,7 @@ public class questao4 {
      salario = horas * vlr;
 
      System.out.println("Número: " + numero);
-     System.out.println("Salário: " + salario);
+     System.out.printf("Salário: R$%.2f ", salario);
 
      sc.close();
  }
