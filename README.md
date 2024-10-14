@@ -3,6 +3,7 @@
 <p>Este repositório tem como objetivo documentar de forma clara e didática os conceitos fundamentais de Java, abrangendo lógica de programação, programação orientada a objetos (POO) e estrutura de dados. A ideia é enquanto eu vou realizando os cursos, vou fazendo um guia passo a passo, para deixar registrado e buscando reforçar os conceitos da programação.</p>
 
 <h3>Stacks</h3>
+
 * Java linguagem de programação
 * JDBC para acesso a dados baseado em SQL
 * JavaFX para interface gráfica
