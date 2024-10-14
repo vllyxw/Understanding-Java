@@ -13,3 +13,10 @@
 * Maven para gerenciamento de dependências de projeto
 * Spring Data JPA - framework para acesso a dados ORM
 * Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
+
+<h3>Base de Estudo</h3>
+
+<p>Este material foi elaborado com base nos seguintes cursos:</p>
+
+* Java COMPLETO Programação Orientada a Objetos + Projetos do professor Nelio Alves (Udemy)
+* Dev Dojo - Canal com conteúdo voltado a desenvolvedores, abordando Java e outras tecnologias relacionadas.
