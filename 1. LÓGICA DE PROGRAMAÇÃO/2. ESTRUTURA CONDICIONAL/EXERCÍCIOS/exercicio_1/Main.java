@@ -9,8 +9,7 @@ public static void main(String[] args) {
 
     if(num < 0) {
         System.out.println("Este numero é negativo");
-    }
-    else{
+    } else{
         System.out.println("Este numero é positivo");
     }
 
