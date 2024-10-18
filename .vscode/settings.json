@@ -1,6 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "1. LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/02. LISTA 02/Q3",
+        "1. LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/02. LISTA 02/Q2",
         "1. LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/02. LISTA 02/Q1",
         "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicios_8",
         "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicio_7",
@@ -10,6 +12,6 @@
         "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicio_3",
         "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicio_2",
         "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicio_1",
-        "1. LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/02. LISTA 02/Q2"
+        "1. LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/02. LISTA 02/Q4"
     ]
 }
