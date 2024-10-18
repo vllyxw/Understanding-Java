@@ -1,7 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "LÓGICA DE PROGRAMAÇÃO/1. ESTRUTURA SEQUENCIAL/EXERCÍCIOS",
-        "LÓGICA DE PROGRAMAÇÃO/4. EXERCÍCIOS/1. LISTA 01/lista"
+        "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicios",
+        "1. LÓGICA DE PROGRAMAÇÃO/2. ESTRUTURA CONDICIONAL/EXERCÍCIOS/exercicio_1"
     ]
 }
