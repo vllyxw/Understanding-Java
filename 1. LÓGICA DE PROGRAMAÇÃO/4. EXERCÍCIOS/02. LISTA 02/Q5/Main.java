@@ -12,7 +12,6 @@ public class Main {
         } else {
             System.out.println("Este número é inteiro");
         }
-
         scanner.close();
 
     }
