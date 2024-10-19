@@ -4,18 +4,17 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.printf("Digite F se você é mulher e M se você é homem: ");
-        char sexo = scanner.next().charAt(0);
+        System.out.printf("Digite um número: ");
+        float num = scanner.nextFloat();
 
-        if (sexo == 'F') {
-            System.out.printf("Você é do sexo feminino");
-        } else if (sexo == 'M') {
-            System.out.printf("Você é do sexo masculino");
+        if (num == 0.0) {
+            System.out.println("Este número é quebrado");
         } else {
-            System.out.printf("Sexo inválido");
+            System.out.println("Este número é inteiro");
         }
 
         scanner.close();
+
     }
 
 }
