@@ -4,13 +4,12 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.printf("Calculadora");
-        System.out.println("Escolha uma opção:");
-        System.out.println("[1] - Adição");
-        System.out.println("[2] - Subtração");
-        System.out.println("[3] - Multiplicação");
-        System.out.println("[4] - Divisão");
-        System.out.println("[5] - Fim");
+        System.out.printf("Calculadora \n");
+        System.out.println("[1] - Adição \n");
+        System.out.println("[2] - Subtração \n");
+        System.out.println("[3] - Multiplicação \n");
+        System.out.println("[4] - Divisão \n");
+        System.out.println("[5] - Fim \n");
         System.out.printf("Escolha uma opção: ");
         int opcao = scanner.nextInt();
 
