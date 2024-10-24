@@ -4,9 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.printf("Selecione o grupo de animais: ");
-
-        System.out.printf("Grupo de Animais:");
+        System.out.printf("Selecione o grupo de animais: \n");
         System.out.printf("1 - Mamíferos \n");
         System.out.printf("2 - Aves \n");
         System.out.printf("3 - Répteis \n");
@@ -30,8 +28,10 @@ public class Main {
 
                         if (escolha1 == 1) {
                             System.out.printf("Leão");
-                        } else {
+                        } else if (escolha1 == 2) {
                             System.out.printf("Cavalo");
+                        } else {
+                            System.out.printf("Valor inválido");
                         }
                         break;
                     case 2: 
@@ -57,6 +57,8 @@ public class Main {
                         System.out.printf("Valor inválido");
                         break;
                 }
+                break;
+                
             case 2: 
                 System.out.printf("1 - Não voadoras \n");
                 System.out.printf("2 - Nadadoras \n");
