@@ -21,3 +21,5 @@
 * Java COMPLETO Programação Orientada a Objetos + Projetos do professor Nelio Alves (Udemy)
 * Dev Dojo - Canal com conteúdo voltado a desenvolvedores, abordando Java e outras tecnologias relacionadas.
 * Especialista Backend Java (EBAC)
+* Java 360°: Curso Completo do Zero ao Avançado com Projetos (Udemy)
+
